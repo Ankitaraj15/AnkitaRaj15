@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Raj</h1>
-<h3 align="center">A passionate Computer Science undergrad from India 🇮🇳</h3>
+<h3 align="center">A passionate Computer Science undergrad from India</h3>
 
 ---
 
@@ -78,10 +78,10 @@
 - 📱 Android App Development (Java, Jetpack Compose)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
-![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitaraj15&show_icons=true&theme=radical)
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitaraj15&show_icons=true&theme=radical)-->
 
 ---
 
