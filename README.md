@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Computer Science undergrad from India</h3>
 
 ---
-
 ### 👩‍💻 About Me
 - 🎓 B.Tech CSE Student at **KIIT University**, Bhubaneswar (2022–2026) | CGPA: **8.75/10**
 - 💡 I’m passionate about **Android Development, Machine Learning, Full-stack Web Development**, and exploring **Cloud & Automation**
@@ -78,7 +77,6 @@
 - 📱 Android App Development (Java, Jetpack Compose)
 
 ---
-<!--
 ### 📈 GitHub Stats
 
 ![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitaraj15&show_icons=true&theme=radical)-->
